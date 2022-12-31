@@ -9,7 +9,7 @@ const config = {
   title: 'Potalth Bots',
   tagline: 'Dinosaurs are cool',
   url: 'https://mattyapotato.github.io/potalth/',
-  baseUrl: '/',
+  baseUrl: '/potalth/',
   projectName: 'potalth',
   organizationName: 'mattyapotato',
   trailingSlash: false,
